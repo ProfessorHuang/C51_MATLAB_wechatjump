@@ -1,2 +1,3 @@
 # C51_MATLAB_wechatjump
 基于MATLAB和C51的微信跳一跳单片机物理外挂设计
+基于opencv和51单片机的微信跳一跳全自动物理辅助，适用于Android+Windows平台，硬件部分由51单片机实现。
